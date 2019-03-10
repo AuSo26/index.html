@@ -1,0 +1,85 @@
+<html>
+<head>
+    <style>
+        table{
+             {border-spacing: 10px ; }
+        }
+     th
+        {
+            font-size: 34;
+        }
+        td 
+        {
+            font-size: 24 ;
+        }
+   td:hover {
+            background-color: blueviolet ;
+        }
+    </style>
+<title>
+  assg1 
+</title>   
+    
+    
+ </head>
+    <body>
+            <h1>spring trem 2019 commuiction department </h1>
+<br>
+        <br>
+    <table style="width:100%"
+           border="1" >
+  <tr>
+    <th> </th>
+    <th>monday</th> 
+    <th>tuesday</th>
+     <th>wednsday </th>
+      <th> thrusday</th>
+      <th>friday </th>
+  </tr>
+  <tr>
+    <td>1:00PM</td>
+    <td rowspan="2" style="background-color: yellow"><a href="file:///C:/Users/Batool/Desktop/html/ass1/new2.html" >HTML </a></td> 
+    <td rowspan="2" style="background-color: bisque" >HTML</td> 
+<td rowspan="8" style="background-color: bisque">
+      HTML hour <br> by apps</td>
+      <td rowspan="2" style="background-color: bisque">HTML</td> 
+  </tr>
+        
+  <tr>
+    <td>3:00PM</td>
+   <td rowspan="2" style="background-color: gray">DeptMeeting</td>
+        
+
+  </tr> <tr>
+    <td>2:00PM</td>
+    <td  rowspan="3" style="background-color: greenyellow">CSS</td> 
+            <td  rowspan="3" style="background-color: greenyellow">CSS</td> 
+           <td  rowspan="3" style="background-color: greenyellow">CSS</td> 
+  </tr>
+  <tr>
+    <td>3:00PM</td>
+    
+  </tr> <tr>
+    <td>5:00PM</td>
+      <td rowspan="3" style="background-color: gray">Ec meeting </td> 
+
+  </tr>
+  <tr>
+    <td>3:30PM</td>
+      <td rowspan="3" style="background-color: aqua">CSC205</td> 
+<td rowspan="3" style="background-color: aqua">CSC205</td> 
+      <td rowspan="3" style="background-color:aqua">CSC205</td> 
+  </tr> <tr>
+    <td>3:30PM</td>
+   
+  </tr>
+  <tr>
+    <td>4:00PM</td>
+    
+  </tr>
+</table>
+        
+    <a href="file:///C:/Users/Batool/Desktop/html/ass1/new2.html" ><h3>click on the course for discribation </h3> </a>
+    </body>
+
+</html>
